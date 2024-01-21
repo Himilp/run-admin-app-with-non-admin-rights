@@ -1,0 +1,4 @@
+Set __COMPAT_LAYER=RunAsInvoker
+Start SteamSetup.exe(filename)
+
+save as by bat file to run the exe
